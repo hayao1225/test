@@ -1,7 +1,7 @@
-<DOCTYPE HTML>
+<!DOCTYPE HTML>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
-        <meta charaset="utf-8">
+        <meta charset="utf-8">
         <title>Blog</title>
     </head>
     <body>
